@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://amit-bhagat.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://amitbhagat.netlify.app/)**
 
 - 📫 How to reach me **amitbhagat.myinbox@gmail.com**
 
