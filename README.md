@@ -23,11 +23,6 @@
 
 - 📫 How to reach me **amitbhagat.myinbox@gmail.com**
 
-- ⚡ Fun fact **I like to play games .**
-
-
-
-
 
 ## 🚀 Languages and Tools:
 
