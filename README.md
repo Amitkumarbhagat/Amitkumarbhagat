@@ -52,6 +52,8 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+<!-- https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66  -->
+
 ## 🐍 Watch my Contribution Graph get eaten by the snake 🥳
 ![snake gif](https://github.com/Amitkumarbhagat/Amitkumarbhagat/blob/output/github-contribution-grid-snake.gif)
 
@@ -102,3 +104,4 @@
 </a>
 
 <a href="https://github.com/Amitkumarbhagat?tab=followers"><img src="https://img.shields.io/github/followers/Amitkumarbhagat?label=Followers&style=social" alt="GitHub Badge"></a>
+
