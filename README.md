@@ -10,16 +10,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amit</h1>
 <h3 align="center">I'm a passionate Full Stack And Devops Developer from India.</h3>
 
-<!-- ## 👍
+## 👍
 
 
   <b>About :</b> I am a Devops And Web-developer with a passion for developing of all types, and sizes. With experience in Ruby on Rails, JavaScript, NodeJs and React and a background in Computer Engineering. With Strong skills, having worked at entry level to Avg level. I have  experienced in teams working and creating an environment that encourages extraordinary results. Dependable and always willing to take on any task and learn something new. Conversational fluency in English, Hindi and Marathi.
 
-<br/> -->
 <br/>
-
-
-
+<br/>
 
 ## 🙋‍♂️ About Me
 
@@ -35,11 +32,9 @@
 
 
 <br/>
-
-
 <br/>
 
-#
+
 
 ## 🚀 Languages and Tools:
 
@@ -56,9 +51,6 @@
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
-<br/>
-
-#
 
 <!-- https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66  -->
 
@@ -66,13 +58,10 @@
 ![snake gif](https://github.com/Amitkumarbhagat/Amitkumarbhagat/blob/output/github-contribution-grid-snake.gif)
 
 <br/>
-<br/>
 
-#
+## 📊 My Github Stats
 
-<!-- ## 📊 My Github Stats -->
-
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/Amitkumarbhagat/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amit bhagat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkumarbhagat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -87,34 +76,7 @@
 
 
 <br/>
-<br/> -->
-
 <br/>
-
-##
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
-  <strong>Github Stats : </strong>
-</summary>
-<br>
-  
-<p align="center">
-  <a href="https://github.com/amitkumarbhagat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkumarbhagat&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/amitkumarbhagat">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumarbhagat&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-  <a href="https://github.com/Amitkumarbhagat/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amit bhagat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkumarbhagat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-</details>
-<br>
-
-
 
 ## <h1></h1>
 
@@ -123,9 +85,7 @@
 <br/>
 <br/>
 
-#
-
-
+<h1></h>
 
 ## 🤲Connect with me:
 <p align="left">
@@ -136,9 +96,6 @@
 <a href = "https://www.youtube.com/channel/UCBX12jMqsQOqvIolOb7zWXA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
-#
-<br/>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
