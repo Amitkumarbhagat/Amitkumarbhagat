@@ -100,6 +100,7 @@
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Amitkumarbhagat">
+    <!-- <a href="http://s11.flagcounter.com/more/FNn"><img src="https://s11.flagcounter.com/countxl/FNn/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_118/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 </a>
 
 <a href="https://github.com/Amitkumarbhagat?tab=followers"><img src="https://img.shields.io/github/followers/Amitkumarbhagat?label=Followers&style=social" alt="GitHub Badge"></a>
