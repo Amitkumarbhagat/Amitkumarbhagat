@@ -54,8 +54,8 @@
 
 <!-- https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66  -->
 
-## 🐍 Watch my Contribution Graph get eaten by the snake
-![snake gif](https://github.com/Amitkumarbhagat/Amitkumarbhagat/blob/output/github-contribution-grid-snake.gif)
+<!-- ## 🐍 Watch my Contribution Graph get eaten by the snake
+![snake gif](https://github.com/Amitkumarbhagat/Amitkumarbhagat/blob/output/github-contribution-grid-snake.gif) -->
 
 <br/>
 
