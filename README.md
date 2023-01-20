@@ -70,14 +70,15 @@
 
 
   <br/>
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/Amitkumarbhagat/github-readme-stats"><img alt="Amit bhagat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Amitkumarbhagat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+	</p>
+	 <p align="right">
   <a href="https://github.com/Amitkumarbhagat/github-readme-stats"><img alt="Amit bhagat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumarbhagat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 	</p>
   <br/>
 
 
-<br/>
 
 <h2 align='center'><i><a href="https://github.com/amitkumarbhagat/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
@@ -88,12 +89,8 @@
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amitkumarbhagat&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
-<!-- [![Amit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amitkumarbhagat&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/amitkumarbhagat/github-readme-activity-graph) -->
-<!-- <a href="https://github.com/Amitkumarbhagat/github-readme-activity-graph"><img alt="Amit bhagat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amitkumarbhagat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
-<br/>
-
 <h1></h>
 
 ## 🤲Connect with me:
@@ -102,14 +99,12 @@
 <a href = "https://www.linkedin.com/in/amit-kumar-bhagat/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Amitbhagat_2"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/amitbhagat_2/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCBX12jMqsQOqvIolOb7zWXA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Amitkumarbhagat">
-    <!-- <a href="http://s11.flagcounter.com/more/FNn"><img src="https://s11.flagcounter.com/countxl/FNn/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_118/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 </a>
 
 <a href="https://github.com/Amitkumarbhagat?tab=followers"><img src="https://img.shields.io/github/followers/Amitkumarbhagat?label=Followers&style=social" alt="GitHub Badge"></a>
