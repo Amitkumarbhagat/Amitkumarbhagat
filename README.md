@@ -79,8 +79,17 @@
 <br/>
 
 ## <h1></h1>
-[![Amit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amitkumarbhagat&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/amitkumarbhagat/github-readme-activity-graph)
-<a href="https://github.com/Amitkumarbhagat/github-readme-activity-graph"><img alt="Amit bhagat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amitkumarbhagat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<h2 align='center'><i><a href="https://github.com/amitkumarbhagat/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/amitkumarbhagat/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amitkumarbhagat&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/amitkumarbhagat/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amitkumarbhagat&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+<!-- [![Amit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amitkumarbhagat&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/amitkumarbhagat/github-readme-activity-graph) -->
+<!-- <a href="https://github.com/Amitkumarbhagat/github-readme-activity-graph"><img alt="Amit bhagat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amitkumarbhagat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
