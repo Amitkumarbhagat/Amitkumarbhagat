@@ -13,7 +13,7 @@
 ## 👍
 
 
-  <b>About :</b> I am a Devops And Web-developer with a passion for developing of all types, and sizes. With experience in Ruby on Rails, JavaScript, NodeJs and React and a background in Computer Engineering. With Strong skills, having worked at entry level to Avg level. I have  experienced in teams working and creating an environment that encourages extraordinary results. Dependable and always willing to take on any task and learn something new. Conversational fluency in English, Hindi and Marathi.
+  <b>About :</b> I am a Web developer And System designer with a passion for developing of all types, and sizes. With experience in Ruby on Rails, Golang, JavaScript and c++ background in Computer Engineering. With Strong skills, having worked at entry level to Avg level. I have  experienced in teams working and creating an environment that encourages extraordinary results. Dependable and always willing to take on any task and learn something new. Conversational fluency in English, Hindi and Marathi.
 
 <br/>
 <br/>
