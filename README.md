@@ -71,16 +71,6 @@
 <br/>
 
 
-
-## 🤲Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/amit-kumar-bhagat/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Amitb2506"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/amitbhagat2506/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Amitkumarbhagat">
