@@ -1,22 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<p align="center">
-	<a href="http://zalt.me">
-		<img alt="Amit Bhagat's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amit+GitHub+page+:)&center=true&width=450&height=55">
-	</a>
-</p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amit</h1>
-<h3 align="center">I'm a passionate Full Stack And Devops Developer from India.</h3>
-
-## 👍
-
-
-  <b>About :</b> I am a Web developer And System designer with a passion for developing of all types, and sizes. With experience in Ruby on Rails, Golang, JavaScript and c++ background in Computer Engineering. With Strong skills, having worked at entry level to Avg level. I have  experienced in teams working and creating an environment that encourages extraordinary results. Dependable and always willing to take on any task and learn something new. Conversational fluency in English, Hindi and Marathi.
-
-<br/>
-<br/>
 
 ## 🙋‍♂️ About Me
 
