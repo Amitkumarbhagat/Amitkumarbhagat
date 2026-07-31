@@ -28,12 +28,6 @@
     alt="GitHub Stats"
     height="170"
   />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumarbhagat&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"
-    alt=""
-    height="170"
-  />
 </p>
 
 ---
