@@ -6,11 +6,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Graduate (2024)
-- 💻 Java Backend Developer
-- 🌱 Currently learning Microservices & Docker
+- 🎓 Computer Science Engineering Graduate
+- 🌱 Currently learning Microservices & Devops
 - 🚀 Passionate about Backend Development and Scalable Web Applications
-- 🔐 Skilled in Spring Boot, Spring Security, JWT, Redis, MySQL and React
+- 🔐 Skilled in Backend, Spring Security, JWT, Redis,  React
 
 ---
 
