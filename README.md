@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Amit Bhagat</h1>
+# Amit Bhagat
 
-<p align="center">
-Java Backend Developer | Spring Boot | React | REST APIs | MySQL
-</p>
+**Java Backend Developer | Spring Boot | React | REST APIs**
 
 ---
 
@@ -16,7 +14,7 @@ Java Backend Developer | Spring Boot | React | REST APIs | MySQL
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -41,12 +39,8 @@ Java Backend Developer | Spring Boot | React | REST APIs | MySQL
 
 ---
 
-## ❤ Profile Views & Followers
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amitkumarbhagat&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-  <a href="https://github.com/Amitkumarbhagat?tab=followers">
-    <img src="https://img.shields.io/github/followers/Amitkumarbhagat?label=Followers&style=social"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Amitkumarbhagat&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
