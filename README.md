@@ -1,6 +1,6 @@
 # Amit Bhagat
 
-**Java Backend Developer | Spring Boot | React | REST APIs**
+**Java/C# Backend Developer | Spring Boot | .NET | React | REST APIs**
 
 ![](https://komarev.com/ghpvc/?username=Amitkumarbhagat&label=Profile%20Views&color=0e75b6&style=flat)
 
